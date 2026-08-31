@@ -1,29 +1,41 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rizzennews
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Marketing Site
+    url: https://delivami.com
+  - name: Web App
+    url: https://app.delivami.com
+  - name: Documentation
+    url: https://docs.delivami.com
+  - name: Changelog
+    url: https://changelog.delivami.com
+  - name: Assets CDN
+    url: https://assets.delivami.com
+  - name: Image Proxy
+    url: https://images.delivami.com
+  - name: Realtime Server
+    url: https://realtime.delivami.com
+  - name: AI Service
+    url: https://ai.delivami.com
+  - name: Admin Dashboard
+    url: https://admin.delivami.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # This is where your status page will live once you configure DNS
+  cname: status.delivami.com
+  
+  logoUrl: https://app.delivami.com/delivami.png
+  name: Delivami Status
+  introTitle: "**Delivami System Status**"
+  introMessage: Welcome to the Delivami status page. Here you can find real-time information regarding the uptime of our core services, APIs, and web applications.
+  
   navbar:
     - title: Status
       href: /
+    - title: Delivami.com
+      href: https://delivami.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
