@@ -23,21 +23,24 @@ sites:
     expectedStatusCodes: [200, 401, 403, 404]
   - name: Realtime Server
     url: https://realtime.delivami.com
-    expectedStatusCodes: [200, 401, 403, 404, 426] # 426 is Upgrade Required (for websockets)
+    expectedStatusCodes: [200, 401, 403, 404, 426]
   - name: AI Service
     url: https://ai.delivami.com
     expectedStatusCodes: [200, 401, 403, 404]
 
-
 status-website:
-  # This is where your status page will live once you configure DNS
+  # General Settings
   cname: status.delivami.com
+  name: Delivami
+  theme: dark
+  logoUrl: https://delivami.com/delivami.png
+  favicon: https://delivami.com/favicon.png
   
-  logoUrl: https://app.delivami.com/delivami.png
-  name: Delivami Status
-  introTitle: "**Delivami System Status**"
-  introMessage: Welcome to the Delivami status page. Here you can find real-time information regarding the uptime of our core services, APIs, and web applications.
+  # Text
+  introTitle: "**Delivami Systems Status**"
+  introMessage: "Real-time uptime monitoring for all Delivami services."
   
+  # Navigation
   navbar:
     - title: Status
       href: /
@@ -46,18 +49,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-
-
-status-website:
-  cname: status.delivami.com
-  theme: dark # Options are: light, dark, or auto (based on user's system)
-  logoUrl: https://delivami.com/delivami.png
-  favicon: https://delivami.com/favicon.png # Changes the browser tab icon
-  name: Delivami
-  introTitle: "Delivami Systems Status"
-  introMessage: "Real-time uptime monitoring for all Delivami services."
+  # Custom Design
   customCss: |
     /* Change the main font */
     body {
@@ -82,4 +74,3 @@ status-website:
     nav a {
       color: white !important;
     }
-
