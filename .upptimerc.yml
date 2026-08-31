@@ -11,16 +11,23 @@ sites:
     url: https://docs.delivami.com
   - name: Changelog
     url: https://changelog.delivami.com
-  - name: Assets CDN
-    url: https://assets.delivami.com
-  - name: Image Proxy
-    url: https://images.delivami.com
-  - name: Realtime Server
-    url: https://realtime.delivami.com
-  - name: AI Service
-    url: https://ai.delivami.com
   - name: Admin Dashboard
     url: https://admin.delivami.com
+    
+  # --- API & Workers (We expect these to return auth/path errors if pinged directly) ---
+  - name: Assets CDN
+    url: https://assets.delivami.com
+    expectedStatusCodes: [200, 401, 403, 404]
+  - name: Image Proxy
+    url: https://images.delivami.com
+    expectedStatusCodes: [200, 401, 403, 404]
+  - name: Realtime Server
+    url: https://realtime.delivami.com
+    expectedStatusCodes: [200, 401, 403, 404, 426] # 426 is Upgrade Required (for websockets)
+  - name: AI Service
+    url: https://ai.delivami.com
+    expectedStatusCodes: [200, 401, 403, 404]
+
 
 status-website:
   # This is where your status page will live once you configure DNS
