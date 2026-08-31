@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 275,
+    "timeDay": 275,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1484,
-    "timeDay": 1484,
-    "timeWeek": 1484,
-    "timeMonth": 1484,
-    "timeYear": 1484,
+    "time": 1566,
+    "timeDay": 1566,
+    "timeWeek": 1566,
+    "timeMonth": 1566,
+    "timeYear": 1566,
     "dailyMinutesDown": {
-      "2026-08-31": 4
+      "2026-08-31": 29
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1146,
-    "timeDay": 1146,
-    "timeWeek": 1146,
-    "timeMonth": 1146,
-    "timeYear": 1146,
+    "time": 848,
+    "timeDay": 848,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {}
   },
   {
@@ -72,87 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 3
-    }
-  },
-  {
-    "name": "Assets CDN",
-    "url": "https://assets.delivami.com",
-    "icon": "https://icons.duckduckgo.com/ip3/assets.delivami.com.ico",
-    "slug": "assets-cdn",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 413,
-    "timeDay": 413,
-    "timeWeek": 413,
-    "timeMonth": 413,
-    "timeYear": 413,
-    "dailyMinutesDown": {
-      "2026-08-31": 3
-    }
-  },
-  {
-    "name": "Image Proxy",
-    "url": "https://images.delivami.com",
-    "icon": "https://icons.duckduckgo.com/ip3/images.delivami.com.ico",
-    "slug": "image-proxy",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 211,
-    "timeDay": 211,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2026-08-31": 3
-    }
-  },
-  {
-    "name": "Realtime Server",
-    "url": "https://realtime.delivami.com",
-    "icon": "https://icons.duckduckgo.com/ip3/realtime.delivami.com.ico",
-    "slug": "realtime-server",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 94,
-    "timeDay": 94,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
-    "dailyMinutesDown": {
-      "2026-08-31": 3
-    }
-  },
-  {
-    "name": "AI Service",
-    "url": "https://ai.delivami.com",
-    "icon": "https://icons.duckduckgo.com/ip3/ai.delivami.com.ico",
-    "slug": "ai-service",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
-    "dailyMinutesDown": {
-      "2026-08-31": 2
+      "2026-08-31": 29
     }
   },
   {
@@ -166,13 +86,93 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 430,
-    "timeDay": 430,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-08-31": 2
+      "2026-08-31": 27
+    }
+  },
+  {
+    "name": "Assets CDN",
+    "url": "https://assets.delivami.com",
+    "icon": "https://icons.duckduckgo.com/ip3/assets.delivami.com.ico",
+    "slug": "assets-cdn",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 386,
+    "timeDay": 386,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
+    "dailyMinutesDown": {
+      "2026-08-31": 28
+    }
+  },
+  {
+    "name": "Image Proxy",
+    "url": "https://images.delivami.com",
+    "icon": "https://icons.duckduckgo.com/ip3/images.delivami.com.ico",
+    "slug": "image-proxy",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 252,
+    "timeDay": 252,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
+    "dailyMinutesDown": {
+      "2026-08-31": 28
+    }
+  },
+  {
+    "name": "Realtime Server",
+    "url": "https://realtime.delivami.com",
+    "icon": "https://icons.duckduckgo.com/ip3/realtime.delivami.com.ico",
+    "slug": "realtime-server",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {
+      "2026-08-31": 28
+    }
+  },
+  {
+    "name": "AI Service",
+    "url": "https://ai.delivami.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ai.delivami.com.ico",
+    "slug": "ai-service",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
+    "dailyMinutesDown": {
+      "2026-08-31": 28
     }
   }
 ]
