@@ -48,3 +48,38 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+
+status-website:
+  cname: status.delivami.com
+  theme: dark # Options are: light, dark, or auto (based on user's system)
+  logoUrl: https://delivami.com/delivami.png
+  favicon: https://delivami.com/favicon.png # Changes the browser tab icon
+  name: Delivami
+  introTitle: "Delivami Systems Status"
+  introMessage: "Real-time uptime monitoring for all Delivami services."
+  customCss: |
+    /* Change the main font */
+    body {
+      font-family: 'Inter', sans-serif !important;
+      background-color: #f8fafc;
+    }
+    
+    /* Change the color of the "Up" green badges to a specific brand green */
+    .badge.success {
+      background-color: #10b981 !important;
+    }
+    
+    /* Hide the footer if you don't want the "Powered by Upptime" text */
+    footer {
+      display: none !important;
+    }
+    
+    /* Make the top navigation bar black */
+    nav {
+      background-color: #0f172a !important;
+    }
+    nav a {
+      color: white !important;
+    }
+
