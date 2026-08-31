@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1566,
-    "timeDay": 1566,
-    "timeWeek": 1566,
-    "timeMonth": 1566,
-    "timeYear": 1566,
+    "time": 1788,
+    "timeDay": 1788,
+    "timeWeek": 1788,
+    "timeMonth": 1788,
+    "timeYear": 1788,
     "dailyMinutesDown": {
-      "2026-08-31": 29
+      "2026-08-31": 40
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 848,
-    "timeWeek": 848,
-    "timeMonth": 848,
-    "timeYear": 848,
+    "time": 765,
+    "timeDay": 765,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 29
+      "2026-08-31": 39
     }
   },
   {
@@ -86,13 +86,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 358,
-    "timeDay": 358,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "time": 266,
+    "timeDay": 266,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2026-08-31": 28
+      "2026-08-31": 38
     }
   },
   {
@@ -101,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.delivami.com.ico",
     "slug": "assets-cdn",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 386,
-    "timeDay": 386,
-    "timeWeek": 386,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "uptime": "24.64%",
+    "uptimeDay": "24.64%",
+    "uptimeWeek": "24.64%",
+    "uptimeMonth": "24.64%",
+    "uptimeYear": "24.64%",
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
@@ -121,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.delivami.com.ico",
     "slug": "image-proxy",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "24.72%",
+    "uptimeDay": "24.72%",
+    "uptimeWeek": "24.72%",
+    "uptimeMonth": "24.72%",
+    "uptimeYear": "24.72%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
@@ -141,16 +141,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/realtime.delivami.com.ico",
     "slug": "realtime-server",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 142,
-    "timeDay": 142,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "uptime": "24.76%",
+    "uptimeDay": "24.76%",
+    "uptimeWeek": "24.76%",
+    "uptimeMonth": "24.76%",
+    "uptimeYear": "24.76%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
@@ -161,16 +161,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.delivami.com.ico",
     "slug": "ai-service",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 294,
-    "timeDay": 294,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "uptime": "24.89%",
+    "uptimeDay": "24.89%",
+    "uptimeWeek": "24.89%",
+    "uptimeMonth": "24.89%",
+    "uptimeYear": "24.89%",
+    "time": 393,
+    "timeDay": 393,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
