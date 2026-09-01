@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1788,
-    "timeDay": 1788,
-    "timeWeek": 1788,
-    "timeMonth": 1788,
-    "timeYear": 1788,
+    "time": 1642,
+    "timeDay": 1642,
+    "timeWeek": 1642,
+    "timeMonth": 1642,
+    "timeYear": 1642,
     "dailyMinutesDown": {
-      "2026-08-31": 40
+      "2026-09-01": 127,
+      "2026-08-31": 292
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 765,
-    "timeWeek": 765,
-    "timeMonth": 765,
-    "timeYear": 765,
+    "time": 1176,
+    "timeDay": 1176,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-31": 39
+      "2026-09-01": 127,
+      "2026-08-31": 292
     }
   },
   {
@@ -86,13 +88,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 266,
-    "timeDay": 266,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "time": 367,
+    "timeDay": 367,
+    "timeWeek": 367,
+    "timeMonth": 367,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2026-08-31": 38
+      "2026-09-01": 127,
+      "2026-08-31": 291
     }
   },
   {
@@ -101,16 +104,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.delivami.com.ico",
     "slug": "assets-cdn",
     "status": "up",
-    "uptime": "24.64%",
-    "uptimeDay": "24.64%",
-    "uptimeWeek": "24.64%",
-    "uptimeMonth": "24.64%",
-    "uptimeYear": "24.64%",
-    "time": 385,
-    "timeDay": 385,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "uptime": "93.26%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "93.26%",
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
@@ -121,16 +124,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.delivami.com.ico",
     "slug": "image-proxy",
     "status": "up",
-    "uptime": "24.72%",
-    "uptimeDay": "24.72%",
-    "uptimeWeek": "24.72%",
-    "uptimeMonth": "24.72%",
-    "uptimeYear": "24.72%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "uptime": "93.31%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "93.31%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "93.31%",
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
@@ -141,16 +144,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/realtime.delivami.com.ico",
     "slug": "realtime-server",
     "status": "up",
-    "uptime": "24.76%",
-    "uptimeDay": "24.76%",
-    "uptimeWeek": "24.76%",
-    "uptimeMonth": "24.76%",
-    "uptimeYear": "24.76%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "uptime": "93.35%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "93.35%",
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
@@ -161,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.delivami.com.ico",
     "slug": "ai-service",
     "status": "up",
-    "uptime": "24.89%",
-    "uptimeDay": "24.89%",
-    "uptimeWeek": "24.89%",
-    "uptimeMonth": "24.89%",
-    "uptimeYear": "24.89%",
-    "time": 393,
-    "timeDay": 393,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "uptime": "93.39%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "93.39%",
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2026-08-31": 28
     }
