@@ -22,20 +22,21 @@
     "url": "https://app.delivami.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.delivami.com.ico",
     "slug": "web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 1642,
-    "timeDay": 1503,
-    "timeWeek": 1888,
-    "timeMonth": 1718,
-    "timeYear": 1642,
+    "time": 1620,
+    "timeDay": 841,
+    "timeWeek": 1675,
+    "timeMonth": 1670,
+    "timeYear": 1620,
     "dailyMinutesDown": {
       "2026-09-01": 409,
-      "2026-08-31": 292
+      "2026-08-31": 292,
+      "2026-11-01": 1
     }
   },
   {
@@ -73,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-01": 162,
+      "2026-11-01": 582,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -155,7 +156,7 @@
     "timeMonth": 153,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-11-01": 162,
+      "2026-11-01": 582,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
